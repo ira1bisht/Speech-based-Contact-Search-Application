@@ -1,0 +1,48 @@
+_1 First_Name=Aman Last_Name=Singh
+Mobile_Number=9876899284
+Email=a@iitg.ac.in
+_2 First_Name=Chaitra Last_Name=Kumar
+Mobile_Number=9897654372
+Email=chaitra@iitg.ac.in
+_3 First_Name=Divya Last_Name=Dhama
+Mobile_Number=8989765432
+Email=ddhama@iitg.ac.in
+_4 First_Name=Ema Last_Name=John
+Mobile_Number=7878735633
+Email=e1mma@iitg.ac.in
+_5 First_Name=Faizal Last_Name=Khan
+Mobile_Number=7634839479
+Email=fkhan@iitg.ac.in
+_6 First_Name=Gagan Last_Name=Gupta
+Mobile_Number=9836438789
+Email=gagannn@iitg.ac.in
+_7 First_Name=Ira Last_Name=Bisht
+Mobile_Number=8648379789
+Email=ibisht@iitg.ac.in
+_8 First_Name=Karan Last_Name=Mehta
+Mobile_Number=7358968986
+Email=karan@iitg.ac.in
+_9 First_Name=Lilly Last_Name=Mehra
+Mobile_Number=9876785668
+Email=mehra1lilly@iitg.ac.in
+_10 First_Name=Manish Last_Name=Sharma
+Mobile_Number=8689675898
+Email=manish@iitg.ac.in
+_11 First_Name=Preet Last_Name=Saloni
+Mobile_Number=8643968984
+Email=preets@iitg.ac.in
+_12 First_Name=Rambo Last_Name=Das
+Mobile_Number=8764398690
+Email=ramboo@iitg.ac.in
+_13 First_Name=Sahil Last_Name=Saxena
+Mobile_Number=9867857467
+Email=123sahil@iitg.ac.in
+_14 First_Name=Tanvi Last_Name=Kumari
+Mobile_Number=8767467689
+Email=tanvi@iitg.ac.in
+_15 First_Name=Urja Last_Name=Pathak
+Mobile_Number=6748986757
+Email=uuurrrjjjaaa@iitg.ac.in
+_16 First_Name=Varun Last_Name=Verma
+Mobile_Number=9867646789
+Email=Vvarun@iitg.ac.in
